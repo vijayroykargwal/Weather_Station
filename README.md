@@ -19,10 +19,15 @@ After copying the files, the Arduino library folder should have a new folder nam
 In this example we will make a weather station that will sense the humidity and temperature and will show it on the lcd attached to the Arduino. Make the circuit as shown in the diagram. The resistor in the circuit will make the black light darker. We have used the 220 ohm resistor but you can use any resistor having value near to that. The potentiometer we used in the circuit is used to set the screen contrast. We have used the 10 K ohm value but you can choose any value relative to that one.
 
 # Components Required 
+
 Arduino Uno (you can use any)
+
 16 x 2 LCD
+
 DHT11 Temperature and humidity sensor
+
 10 K ohm potentiometer
+
 220 ohm resistor
 
 
